@@ -16,7 +16,7 @@
 
 ## 20200311
 * 添加 xt_FLOWOFFLOAD
-* 添加 RTL8821CU 源代码
+* 添加 RTL8821CU 源码
 
 ## 20200308
 * 只允许从 LAN 访问 SSH
